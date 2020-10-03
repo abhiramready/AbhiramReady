@@ -5,15 +5,13 @@
 
 - 🔭 I’m currently working on [🤖The Selenium Project🐍](https://github.com/AbhiramReddyD/The-Selenium-Project)
 
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://abhiramreddyd.github.io/](https://abhiramreddyd.github.io/)
-
-- 📝 I regulary write articles on [https://matrixread.com/](https://matrixread.com/)
+- 📝 I regulary write articles on [matrixread.com](https://matrixread.com/)
 
 - 💬 Ask me about **Web Performance**
 
-- ⚡ Fun fact **I create a Blog📜 Post every Saturday🛰 on what I have Learnt📚 and Experimented🔬 over the Week🔭**
+- 🌱 I’m currently learning **React**
+
+- ⚡ Fun fact **I write a Blog📜 Post every Saturday🛰 on what I have Learnt📚 and Experimented🔬 over the Week🔭**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
