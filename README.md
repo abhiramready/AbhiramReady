@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/abhiramreddyduggempudi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhiramreddyduggempudi" height="30" width="40" /></a>
 <a href="https://instagram.com/matrixreaders" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="matrixreaders" height="30" width="40" /></a>
 <a href="https://medium.com/@abhiram.reddy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@abhiram.reddy" height="30" width="40" /></a>
-<a href="/https://matrixread.com/feed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://matrixread.com/feed/" height="30" width="40" /></a>
+<a href="https://matrixread.com/feed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://matrixread.com/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
