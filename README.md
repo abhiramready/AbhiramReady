@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Web Performance**
 
-- 📫 How to reach me **abhiramreddy31@gmail.com**
-
 - ⚡ Fun fact **I create a Blog📜 Post every Saturday🛰 on what I have Learnt📚 and Experimented🔬 over the Week🔭**
 
 <p align="left">
