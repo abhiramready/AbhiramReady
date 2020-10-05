@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiramreddyd" alt="abhiramreddyd" /> </p>
 
-- 🔭 I’m currently working on [🤖The Selenium Project🐍](https://github.com/AbhiramReddyD/The-Selenium-Project)
+- 🔭 I’m currently working on [#30DaysofCompetetive Coding](https://github.com/AbhiramReddyD/Algorithm-DataStructures/blob/master/README.md)
 
 - 📝 I regulary write articles on [matrixread.com](https://matrixread.com/)
 
