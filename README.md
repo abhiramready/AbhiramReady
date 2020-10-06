@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [#30DaysofCompetetive Coding](https://github.com/AbhiramReddyD/Algorithm-DataStructures/blob/master/README.md)
 
-- 📝 I regulary write articles on [matrixread.com](https://matrixread.com/)
+- 📝 I regulary write articles on my Blog [matrixread.com](https://matrixread.com/)
 
 - 💬 Ask me about **Web Performance**
 
