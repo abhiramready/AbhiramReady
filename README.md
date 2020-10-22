@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- ⚡ Fun fact **I learn📚 new things by exploring and writing blog📜**
+- ⚡ Fun fact **I learn📚 new things faster by explaining and writing about them📜**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
