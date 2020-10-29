@@ -7,11 +7,11 @@
 
 - 📝 I regulary write articles on my Blog [matrixread.com](https://matrixread.com/)
 
-- 💬 Ask me about **Web Performance**
+- 💬 Ask me about **Web Optimization**
 
 - 🌱 I’m currently learning **React**
 
-- ⚡ Fun fact **I learn📚 new things faster by explaining and writing about them📜**
+- ⚡ Fun fact **I learn📚 new things faster by teaching others and writing about them📜**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
