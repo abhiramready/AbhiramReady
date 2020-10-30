@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiramreddyd" alt="abhiramreddyd" /> </p>
 
+- ⚡ Fun fact ** I create a blog post💖 whenever I Learn📚 and Experiment👨‍🚀 with new stuff.**
+
 - 🔭 I’m currently working on [#30DaysofCompetetive Coding](https://github.com/AbhiramReddyD/Algorithm-DataStructures/blob/master/README.md)
 
 - 📝 I regulary write articles on my Blog [matrixread.com](https://matrixread.com/)
@@ -10,8 +12,6 @@
 - 💬 Ask me about **Web Optimization**
 
 - 🌱 I’m currently learning **React**
-
-- ⚡ Fun fact **I learn📚 new things faster by teaching others and writing about them📜**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
