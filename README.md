@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiramreddyd" alt="abhiramreddyd" /> </p>
 
-- ⚡ Fun fact ** I create a blog post💖 whenever I Learn📚 and Experiment👨‍🚀 with new stuff.**
+- ⚡ Fun fact **I create a blog post💖 whenever I Learn📚 and Experiment👨‍🚀 with new stuff.**
 
 - 🔭 I’m currently working on [#30DaysofCompetetive Coding](https://github.com/AbhiramReddyD/Algorithm-DataStructures/blob/master/README.md)
 
