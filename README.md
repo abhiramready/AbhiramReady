@@ -5,13 +5,13 @@
 
 - ⚡ Fun fact **I write a blog post💖 whenever I Learn📚 and Experiment👨‍🚀 new stuff.**
 
-- 🔭 I’m currently working on [#30DaysofCompetetive Coding](https://github.com/AbhiramReddyD/Algorithm-DataStructures/blob/master/README.md)
+- 🔭 I’m currently working on **React⚛ Projects**
 
 - 📝 I regulary write articles on my Blog [matrixread.com](https://matrixread.com/)
 
 - 💬 Ask me about **Web Optimization**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React.js⚛**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
