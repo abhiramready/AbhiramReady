@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React⚛ Projects**
 
-- 📝 I regulary write articles on my Blog [matrixread.com](https://matrixread.com/)
+- 📝 I regulary write articles on my Blog [matrixread](https://matrixread.com/)
 
 - 💬 Ask me about **Web Optimization**
 
