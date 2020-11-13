@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I write a blog post💖 whenever I Learn📚 and Experiment👨‍🚀 new stuff.**
 
-- 🔭 I’m currently working on **React⚛ Projects**
+- 🔭 I’m currently working on some **Cool😎Projects**
 
 - 📝 I regulary write articles on my Blog [matrixread](https://matrixread.com/)
 
