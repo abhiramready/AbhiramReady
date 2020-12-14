@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Abhiram Reddy
-**I'm a Programmer by Passion**
+**I'm a Programmer by Passion💖**
 
 <img src="https://i.imgur.com/uW8h3bc.gif" width="400">
 <samp>
@@ -17,7 +17,7 @@
    "languages": ["JS", "Python", "C/C++"],
    "frontend": ["React", "HTML/CSS"],
    "databases": ["Firebase", "Mysql"],
-   "when not coding": ["SciFi", "Star Wars", "Books", "Blogging"],
+   "when not coding": ["SciFi", "Star Wars", "Books", "Blogging"]
 }
 ```
 <details>
