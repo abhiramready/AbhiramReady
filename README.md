@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Abhiram Reddy
-**💖I'm a Programmer by Passion**
+**I'm a Programmer by Passion💖**
 
 <img src="https://i.imgur.com/uW8h3bc.gif" width="400">
 <samp>
