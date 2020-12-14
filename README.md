@@ -17,7 +17,7 @@
    "languages": ["JS", "Python", "C/C++"],
    "frontend": ["React", "HTML/CSS"],
    "databases": ["Firebase", "Mysql"],
-   "others": ["SciFi", "Star Wars", "Books", "Blogging"],
+   "when not coding": ["SciFi", "Star Wars", "Books", "Blogging"],
 }
 ```
 <details>
@@ -29,4 +29,3 @@
 <a href="https://instagram.com/matrixreaders" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="matrixreaders" height="30" width="40" /></a>
 </p>
 </details>
-***
