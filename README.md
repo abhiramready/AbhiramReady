@@ -1,10 +1,12 @@
-<h3> Hi 👋, I'm Abhiram Reddy </h3>
-<h3> I'm a Programmer by Passion </h3>
+### Hi 👋, I'm Abhiram Reddy 
+**I'm a Programmer by Passion**
+
+<img src="https://i.imgur.com/uW8h3bc.gif" width="400"><br>
 <samp>
 <p>
-- I’m currently learning React.js⚛<br>
+- ⚛ I’m currently learning React.js<br>
 - 💬 Ask me about Web Optimization<br>
-- I regulary write 📝articles at my Blog <a href="https://matrixread.com/">matrixread</a>
+- 📝 I regulary write articles at my Blog <a href="https://matrixread.com/">matrixread</a>
 </p>
 </samp>
 
@@ -18,18 +20,13 @@
 </p>
 </details>
 
+## 📚 My Stack
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```json
+{
+   "languages": ["JS", "Python", "C/C++"],
+   "frontend": ["React", "HTML/CSS"],
+   "databases": ["Firebase", "Mysql"],
+   "others": ["SciFi", "Star Wars", "Books", "Blogging"],
+}
+```
