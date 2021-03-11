@@ -16,7 +16,7 @@
 {
    "languages": ["JS", "C/C++"],
    "frontend": ["React", "HTML5/CSS3"],
-   "interest":["Web Performace & Optimization", "Lighthouse", "SEO"].
+   "interest":["Web Performace & Optimization", "Lighthouse", "SEO"],
    "when not coding": ["SciFi", "PoP Music", "Star Wars", "Books", "Blogging"]
 }
 ```
