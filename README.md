@@ -14,10 +14,10 @@
 
 ```json
 {
-   "languages": ["JS", "Python", "C/C++"],
-   "frontend": ["React", "HTML/CSS"],
-   "databases": ["Firebase", "Mysql"],
-   "when not coding": ["SciFi", "Star Wars", "Books", "Blogging"]
+   "languages": ["JS", "C/C++"],
+   "frontend": ["React", "HTML5/CSS3"],
+   "interest":["Web Performace & Optimization", "Lighthouse", "SEO"].
+   "when not coding": ["SciFi", "PoP Music", "Star Wars", "Books", "Blogging"]
 }
 ```
 <details>
