@@ -14,9 +14,9 @@
 
 ```json
 {
-   "languages": ["JavaScript", "C/C++"],
-   "frontend": ["React", "HTML5/CSS3"],
-   "interest":["Web Performace & Optimization", "Lighthouse", "SEO"],
+   "languages": ["TypeScript", "JavaScript", "C/C++"],
+   "frontend": ["React", "HTML5", "CSS3"],
+   "interest":["Web Performace & Optimization", "Lighthouse"],
    "when not coding": ["SciFi", "PoP Music", "Star Wars", "Books", "Blogging"]
 }
 ```
