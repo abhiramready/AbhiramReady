@@ -13,4 +13,4 @@
    when not coding: [ SciFi, Star Wars, Books, PoP Music, Netflix]
 }
 ```
-[LinkedIn](https://linkedin.com/in/abhiramready) | [Twitter](https://twitter.com/abhiramready) | [YouTube](https://www.youtube.com/channel/UCsaSDDD5F1F774wzpSl0oDQ) | Tech [blog](https://matrixread.com/)
+[LinkedIn](https://linkedin.com/in/abhiramready) | [Twitter](https://twitter.com/abhiramready) | [YouTube](https://www.youtube.com/channel/UCsaSDDD5F1F774wzpSl0oDQ) | Dev [blog](https://matrixread.com/)
