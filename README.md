@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhiram
 
-I'm Abhiram, a seasoned 🚀Web Developer with a passion for working with Reactive Code⚛️ and all things Frontend💻
+A seasoned 🚀Web Developer with a passion for working with Reactive Code⚛️ and all things Frontend💻
 
 Checkout my blog to know what I'm upto at [matrixread.com](https://matrixread.com/)!
 
