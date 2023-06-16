@@ -2,7 +2,7 @@
 
 A seasoned 🚀Web Developer with a passion for working with Reactive Code⚛️ and all things Frontend💻
 
-I am working as a Frontend Developer at Publicis Sapient.,know more on my [LinkedIn](https://linkedin.com/in/abhiramready/)
+Frontend Developer at Publicis Sapient.,know more on my [LinkedIn](https://linkedin.com/in/abhiramready/)
 
 I made a dev blog to share my learnings and document my journey as a programmer[matrixread.com](https://matrixread.com/)!
 
