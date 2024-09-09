@@ -6,5 +6,5 @@ I made a dev blog to share my learnings and document my journey as a programmer 
 
 Frontend Developer at Publicis Sapient | [LinkedIn](https://linkedin.com/in/abhiramready/) |  [YouTube](https://www.youtube.com/channel/UCsaSDDD5F1F774wzpSl0oDQ) | [Codepen](https://codepen.io/abhiramready/pens/showcase)
 ```
-when not coding: [ Books 📚, Music 🎶, SciFi 🔭, Workout 🏋️‍♂️ ]
+whenNotCoding = [ Books 📚, Music 🎶, SciFi 🔭 ]
 ```
