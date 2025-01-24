@@ -1,6 +1,6 @@
 ## Hi, I'm Abhiram 👨‍🚀
 
-| I am a Frontend Engineer💻 with four years of experience in developing Pixel Perfect E-Commerce Platforms🛍️, I have worked on end-to-end implementation from Product 🍪, Cart 🛒, Checkout 💳 to post-checkout experiences ✨ that are efficient, reusable, and configurable 🛠️  |
+| I am a Frontend Developer 💻 (4+ years) focused on developing pixel-perfect E-Commerce🛍️ websites that are beautiful, and functional. Proven track record🏅 delivering complex projects for major clients (Revenue US$5-12B+💵), consistently with quick learning and high ownership🏆. I have worked on end-to-end implementation from Product 🍪, Cart 🛒, Checkout 💳 to post-checkout experiences ✨ |
 | ------------- |
 
 ### 📜 I code in
