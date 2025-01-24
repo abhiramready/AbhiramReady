@@ -1,6 +1,6 @@
 ## Hi, I'm Abhiram 👨‍🚀
 
-| I am a Frontend Developer 💻 (4+ years)  focused on developing pixel-perfect E-Commerce🛍️ websites that are beautiful, and functional. I have worked on end-to-end implementation from Product 🍪, Cart 🛒, Checkout 💳 to post-checkout experiences ✨ |
+| I am a Frontend Developer 💻 (4+ years) focused on developing pixel-perfect E-Commerce🛍️ websites that are beautiful, and functional. I have worked on end-to-end implementation from Product 🍪, Cart 🛒, Checkout 💳 to post-checkout experiences ✨ |
 | ------------- |
 
 ### 📜 I code in
