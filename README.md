@@ -1,6 +1,9 @@
 ## Hi, I'm Abhiram 👨‍🚀
 
 | I am Abhiram, a Frontend Developer💻 with over four years of experience specializing in creating pixel-perfect E-Commerce🛍️ websites that are beautiful and functional. I have worked on end-to-end implementation from Product 🍪, Cart 🛒, Checkout 💳 to post-checkout experiences ✨ |
+
+✍️ I write one article every day 🔗 [matrixread.com](matrixread.com)
+
 | ------------- |
 
 ### 📜 I code in
