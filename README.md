@@ -2,7 +2,7 @@
 
 | I am Abhiram, a Frontend Developer💻 with over four years of experience specializing in creating pixel-perfect E-Commerce🛍️ websites that are beautiful and functional. I have worked on end-to-end implementation from Product 🍪, Cart 🛒, Checkout 💳 to post-checkout experiences ✨ |
 | ------------- |
-| ✍️ I write one article every day 🔗 [matrixread.com](https://matrixread.com/) |
+| ✍️ Blog 🔗 [matrixread.com](https://matrixread.com/) |
 
 ### 📜 I code in
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/CSS-%23639.svg?logo=css&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black" height="25"/> <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white" height="25"/> 
