@@ -1,14 +1,9 @@
-<div align="center">
-
-<pre>
-▀▄      █  █ ▀       ▀█▀ █ ▄▄▄▄      ▄▀▀▄ █▄▄  █▄▄  ▀ ▄ ▄▄  ▄▄▄  ▄▄▄▄
- ▄▀     █▀▀█ █ ▄      █    █ █ █     █▀▀█ █  █ █  █ █ █▀   █  █  █ █ █
-▀       ▀  ▀ ▀ ▀     ▀▀▀   ▀ ▀ ▀     ▀  ▀ ▀▀▀  ▀  ▀ ▀ ▀     ▀▀▀▀ ▀ ▀ ▀
-</pre>
-
-**Frontend Engineer · React ecosystem · 5+ years**
-
-</div>
+```
+▀▄      █  █ ▀       ▀█▀ █ ▄▄▄▄      ▄▀▀▄ █▄▄  █▄▄  ▀ ▄ ▄▄  ▄▄▄  ▄▄▄▄  
+ ▄▀     █▀▀█ █ ▄      █    █ █ █     █▀▀█ █  █ █  █ █ █▀   █  █  █ █ █ 
+▀       ▀  ▀ ▀ ▀     ▀▀▀   ▀ ▀ ▀     ▀  ▀ ▀▀▀  ▀  ▀ ▀ ▀     ▀▀▀▀ ▀ ▀ ▀ 
+           Frontend Engineer · React ecosystem · 5+ years                                                         
+```
 
 <p align="center">
   <a href="https://abhiramready.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" height="22"/></a>
@@ -18,7 +13,7 @@
   <a href="https://codepen.io/abhiramready/pens/showcase"><img src="https://img.shields.io/badge/CodePen-white?logo=codepen&logoColor=black" height="22"/></a>
 </p>
 
-- 🚀 **Currently** — Senior Experience Engineer @ **Publicis Sapient**, leading an enterprise Healthcare Identity Platform (100M users)
+- 🚀 **Currently** — Senior Experience Engineer @ **Publicis Sapient**, building an enterprise Healthcare Identity Platform
 - 🛠️ **Focus** — building fast, accessible web apps for enterprise E-Commerce & Healthcare
 
 ### 🧰 Stack
