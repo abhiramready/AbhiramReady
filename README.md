@@ -2,7 +2,7 @@
 ▀▄      █  █ ▀       ▀█▀ █ ▄▄▄▄      ▄▀▀▄ █▄▄  █▄▄  ▀ ▄ ▄▄  ▄▄▄  ▄▄▄▄ 
  ▄▀     █▀▀█ █ ▄      █    █ █ █     █▀▀█ █  █ █  █ █ █▀   █  █  █ █ █ 
 ▀       ▀  ▀ ▀ ▀     ▀▀▀   ▀ ▀ ▀     ▀  ▀ ▀▀▀  ▀  ▀ ▀ ▀     ▀▀▀▀ ▀ ▀ ▀ 
-           Frontend Engineer · React ecosystem · 5+ years
+           Frontend Engineer · React Ecosystem · 5+ years
 ```
 
 <table>
