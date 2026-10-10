@@ -53,7 +53,7 @@
   <tr>
     <td><strong>Testing</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=fff" height="25"/>
+      <img src="https://img.shields.io/badge/🎭%20Playwright-2EAD33?logo=playwright&logoColor=fff" height="25"/>
       <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff" height="25"/>
       <img src="https://img.shields.io/badge/RTL-000?logo=testinglibrary&logoColor=C21325" height="25"/>
       <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff" height="25"/>
