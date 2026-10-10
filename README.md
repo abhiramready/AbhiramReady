@@ -5,20 +5,24 @@
            Frontend Engineer · React ecosystem · 5+ years                                                         
 ```
 
-<p align="center">
-  <a href="https://abhiramready.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" height="22"/></a>
-  <a href="https://matrixread.com"><img src="https://img.shields.io/badge/Blog-%2321759B.svg?logo=wordpress&logoColor=white" height="22"/></a>
-  <a href="https://linkedin.com/in/abhiramready/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" height="22"/></a>
-  <a href="https://www.youtube.com/@abhiramready"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" height="22"/></a>
-  <a href="https://codepen.io/abhiramready/pens/showcase"><img src="https://img.shields.io/badge/CodePen-white?logo=codepen&logoColor=black" height="22"/></a>
-</p>
-
-- 🚀 **Currently** — Senior Experience Engineer @ **Publicis Sapient**, building an enterprise Healthcare Identity Platform
-- 🛠️ **Focus** — building fast, accessible web apps for enterprise E-Commerce & Healthcare
-
-### 🧰 Stack
-
 <table>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://abhiramready.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" height="22"/></a>
+      <a href="https://matrixread.com"><img src="https://img.shields.io/badge/Blog-%2321759B.svg?logo=wordpress&logoColor=white" height="22"/></a>
+      <a href="https://linkedin.com/in/abhiramready/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" height="22"/></a>
+      <a href="https://www.youtube.com/@abhiramready"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" height="22"/></a>
+      <a href="https://codepen.io/abhiramready/pens/showcase"><img src="https://img.shields.io/badge/CodePen-white?logo=codepen&logoColor=black" height="22"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Currently</strong></td>
+    <td>🚀 Senior Experience Engineer @ <strong>Publicis Sapient</strong>, building an enterprise Healthcare Identity Platform</td>
+  </tr>
+  <tr>
+    <td><strong>Focus</strong></td>
+    <td>🛠️ Building fast, accessible web apps for enterprise E-Commerce &amp; Healthcare</td>
+  </tr>
   <tr>
     <td><strong>Languages</strong></td>
     <td>
