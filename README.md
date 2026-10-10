@@ -17,11 +17,11 @@
   </tr>
   <tr>
     <td><strong>Currently</strong></td>
-    <td>🚀 Senior Experience Engineer @ <strong>Publicis Sapient</strong>, building an enterprise Healthcare Identity Platform</td>
+    <td>Senior Experience Engineer @ <strong>Publicis Sapient</strong>, building an enterprise Healthcare Identity Platform</td>
   </tr>
   <tr>
     <td><strong>Focus</strong></td>
-    <td>🛠️ Building fast, accessible web apps for enterprise E-Commerce &amp; Healthcare</td>
+    <td>Building fast, accessible web apps for enterprise E-Commerce &amp; Healthcare</td>
   </tr>
   <tr>
     <td><strong>Languages</strong></td>
