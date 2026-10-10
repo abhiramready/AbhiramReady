@@ -1,8 +1,8 @@
 ```
-▀▄      █  █ ▀       ▀█▀ █ ▄▄▄▄      ▄▀▀▄ █▄▄  █▄▄  ▀ ▄ ▄▄  ▄▄▄  ▄▄▄▄  
+▀▄      █  █ ▀       ▀█▀ █ ▄▄▄▄      ▄▀▀▄ █▄▄  █▄▄  ▀ ▄ ▄▄  ▄▄▄  ▄▄▄▄ 
  ▄▀     █▀▀█ █ ▄      █    █ █ █     █▀▀█ █  █ █  █ █ █▀   █  █  █ █ █ 
 ▀       ▀  ▀ ▀ ▀     ▀▀▀   ▀ ▀ ▀     ▀  ▀ ▀▀▀  ▀  ▀ ▀ ▀     ▀▀▀▀ ▀ ▀ ▀ 
-           Frontend Engineer · React ecosystem · 5+ years                                                         
+           Frontend Engineer · React ecosystem · 5+ years
 ```
 
 <table>
