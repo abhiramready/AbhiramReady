@@ -82,10 +82,6 @@
             height="25"
          />
          <img
-            src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000"
-            height="25"
-         />
-         <img
             src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff"
             height="25"
          />
